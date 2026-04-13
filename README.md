@@ -8,7 +8,7 @@ This project is from UCL Machine Learning Repository. Using a random sample of 1
 1) Which products generate the most revenue?
 2) Which countries generate the most sales?
 3) Which months have the highest sales?
-4) Which productssell the highest quantity?
+4) Which products sell the highest quantity?
 # SQL Analysis 
 All SQL analysis perforemd using SQL queries, in SQL folder. 
 # Tableau Dashboard 
