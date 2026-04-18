@@ -20,3 +20,5 @@ The full interactive dashboard and story can be viewed here: https://public.tabl
 - A small number of products drive the majority of sales.
 # Dashboard Preview
 <img width="1649" height="859" alt="Dashboard 1" src="https://github.com/user-attachments/assets/0ec1bd85-c0ee-4a73-810c-c7bff9cdd7bc" />
+# Conclusion 
+The project demonstrates the ability to answer key questions using SQL queries and then put data across in to Tableau visulisation for stakeholders to understand. 
