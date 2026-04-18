@@ -10,7 +10,7 @@ This project is from UCL Machine Learning Repository. Using a random sample of 1
 3) Which months have the highest sales?
 4) Which products sell the highest quantity?
 # SQL Analysis 
-All SQL analysis perforemd using SQL queries, in SQL folder. 
+All SQL analysis performed using SQL queries, in SQL folder. 
 # Tableau Dashboard 
 The full interactive dashboard and story can be viewed here: https://public.tableau.com/app/profile/tony.mccutcheon/vizzes
 # Key Insights:
